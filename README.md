@@ -48,7 +48,8 @@ This project implements a motion detection alarm system using Python and OpenCV 
 
 - **Motion Sensitivity**: Adjust the sensitivity of motion detection by changing the threshold value in the code.
 
-## License
+## camera_test.py
 
-This project is licensed under the [MIT License](LICENSE).
+camera_test.py file is for troubleshooting only
 
+run $ python camera_test.py to test whether your camera is working or not.
